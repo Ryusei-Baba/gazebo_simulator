@@ -25,7 +25,7 @@ sudo apt install ros-humble-ros-gz
 ---
 #### 起動
 ```
-ros2 launch simulator simulator_gazebo.launch.py
+ros2 launch simulator gazebo_simulator_gazebo.launch.py
 ```
 
 ---
