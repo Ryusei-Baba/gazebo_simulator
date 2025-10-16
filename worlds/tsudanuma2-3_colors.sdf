@@ -163,7 +163,7 @@
         <collision name="collision">
           <geometry>
             <plane>
-              <normal>0.0 0.0 1</normal>
+              <normal>0 0 0</normal>
               <size>1 1</size>
             </plane>
           </geometry>
@@ -184,7 +184,7 @@
     <include>
       <uri>package://gazebo_simulator/models/tsudanuma2-3</uri>
       <name>building</name>
-      <pose>0 0 0 -1.57 3.14 0</pose>
+      <pose>0 0 -0.055 -1.57 3.14 0</pose>
     </include>
 
   </world>
